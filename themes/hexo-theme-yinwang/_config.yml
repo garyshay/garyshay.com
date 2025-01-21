@@ -40,18 +40,18 @@ tags:
   all: true       # Display all tags on the tag cloud page
 
 # Micro-blog
-github:
-  owner: garyshay
-  repo: garyshay.com
-micro_blogs:
-  - year: 2020
-    issue: 7
-  - year: 2021
-    issue: 10
-  - year: 2022
-    issue: 19
-  - year: 2023
-    issue: 29
+# github:
+#   owner: garyshay
+#   repo: garyshay.com
+# micro_blogs:
+#   - year: 2020
+#     issue: 7
+#   - year: 2021
+#     issue: 10
+#   - year: 2022
+#     issue: 19
+#   - year: 2023
+#     issue: 29
 issue_years: []
 
 google_analysis:

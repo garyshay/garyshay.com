@@ -36,8 +36,8 @@ $(() => {
     hljs.highlightBlock(block);
   });
 
-  const currentYear = new Date().getFullYear();
-  for (let year = currentYear; year >= 2020; year--) {
-    preloadMicroBlog(year, year === currentYear);
-  }
+  // const currentYear = new Date().getFullYear();
+  // for (let year = currentYear; year >= 2020; year--) {
+  //   preloadMicroBlog(year, year === currentYear);
+  // }
 });
