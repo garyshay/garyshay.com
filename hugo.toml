@@ -26,7 +26,7 @@ theme = 'ink'
 # weight = 4
 
 [params]
-	subtitle = "I’ll make my first $1M on Ethereum."
+	subtitle = "On-chain treasure hunter, Sharing tools, data, and alpha that actually work"
 
 	# Optional 64x64 avatar image.
 	avatar = "/image/avatar.jpg"
