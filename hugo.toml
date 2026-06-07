@@ -26,7 +26,8 @@ theme = 'ink'
 # weight = 4
 
 [params]
-	subtitle = "Making sense of crypto & AI — with a bit of fun."
+	subtitle = "I test AI tools and show what actually works.
+Real results. No prompt lists."
 
 	# Optional 64x64 avatar image.
 	avatar = "/image/avatar.jpg"
